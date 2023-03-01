@@ -37,6 +37,6 @@ All tools used in development: <br />
 4, Pinata <br />
 5, Goerli Faucet <br />
 6, Mining tool: https://goerli-faucet.pk910.de/ <br />
-
+7, Remix-Javascipt VM
 
 
